@@ -1,0 +1,61 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.encabezado {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #007bff;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.encabezado h1 {
+  font-size: 20px;
+}
+
+.volver {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.tabla-pagos table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 0 5px #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
+
+th {
+  background: #f0f0f0;
+  color: #333;
+}
+
+td.pagado {
+  color: green;
+  font-weight: bold;
+}
+
+td.pendiente {
+  color: orange;
+  font-weight: bold;
+}
+
+td.cancelado {
+  color: red;
+  font-weight: bold;
+}

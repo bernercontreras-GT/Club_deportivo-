@@ -1,0 +1,79 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.encabezado {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #007bff;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.volver {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.calendario {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.evento {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+.evento h3 {
+  margin-bottom: 5px;
+  color: #007bff;
+}
+
+.evento p {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.evento span {
+  display: block;
+  font-size: 14px;
+  color: #555;
+}
+
+.estado {
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.formulario {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+form select, form button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+form button {
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

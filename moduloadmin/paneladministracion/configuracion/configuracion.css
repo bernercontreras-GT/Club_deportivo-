@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+form {
+  background: #fff;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+form input, form button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+#previewLogo {
+  margin-top: 10px;
+}
+

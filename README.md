@@ -53,7 +53,7 @@ Below are key screenshots showcasing the two main views of the Club Deportivo sy
 The administrator dashboard allows club staff to manage users, payments, facilities, and generate reports.
 
 #### 👥 User Management
-![User Management]([https://github.com/bernercontreras-GT/Club_deportivo-/blob/master/club%20deportivo-%20sport%20club%20screenshots/panel%20de%20administracion.png?raw=true](https://github.com/bernercontreras-GT/Club_deportivo-/blob/master/club%20deportivo-%20sport%20club%20screenshots/gestion%20de%20usuarios.png?raw=true)
+![User Management](https://github.com/bernercontreras-GT/Club_deportivo-/blob/master/club%20deportivo-%20sport%20club%20screenshots/gestion%20de%20usuarios.png?raw=true)
 
 #### 💳 Payment Overview
 ![Payment Overview](https://github.com/bernercontreras-GT/Club_deportivo-/blob/master/club%20deportivo-%20sport%20club%20screenshots/gestion%20de%20pagos%20.png?raw=true)
